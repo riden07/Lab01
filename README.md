@@ -1,3 +1,3 @@
 # userinfo.txt
-ridenpra  
+ridenpra
 ridenpra
