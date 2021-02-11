@@ -1,4 +1,4 @@
 # userinfo.txt
-ridenpra \n
+ridenpra
 ridenpra
 
