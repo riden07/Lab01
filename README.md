@@ -1,4 +1,3 @@
 # userinfo.txt
-ridenpra
-ridenpra
+
 
